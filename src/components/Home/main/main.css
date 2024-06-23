@@ -1,0 +1,41 @@
+@font-face {
+    font-family: label-font;
+    src: url(../../../Font/Italianno/Italianno-Regular.ttf);
+}
+.main{
+    /* height: 100vh; */
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: rgb(243, 224, 190);
+}
+.label p{
+    font-family: label-font;
+    background-color: #FF7F50;
+    color: #fff;
+    width: max-content;
+    padding: 0px 8px;
+    border-radius: 50px;
+    font-size: 1.6rem;
+}
+@media(max-width:374px){
+    .label p{
+        font-size: 1.3rem;
+    }    
+}
+.main-content p{
+    text-align: justify;
+}
+.videos video{
+    width: calc(100%/3);
+    height: max-content;
+    overflow: hidden;
+    border-radius: 2rem;
+    margin: 0.5rem;
+    padding-top: 0px;
+}
+video.vid-1{
+    margin-top: 8vh;
+}
+video.vid-2{
+    margin-top: 15vh;
+}

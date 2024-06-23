@@ -1,0 +1,16 @@
+@font-face {
+    font-family: label-font;
+    src: url(../../../Font/Italianno/Italianno-Regular.ttf);
+}
+.common{
+    text-transform: capitalize;
+}
+.common p{
+    font-family: label-font;
+    background-color: #FF7F50;
+    color: #fff;
+    width: max-content;
+    padding: 0px 8px;
+    border-radius: 50px;
+    font-size: 1.6rem;
+}

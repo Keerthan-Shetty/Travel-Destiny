@@ -1,0 +1,33 @@
+@font-face {
+    font-family: label-font;
+    src: url(../../../Font/Italianno/Italianno-Regular.ttf);
+}
+.service{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: #fff; 
+}
+
+.service-content h1, .service-box p{
+    font-family: label-font;
+}
+.service-box{
+    border-bottom: 3px solid rgba(0, 0, 255, 0.753);
+    border-right:3px solid rgba(0, 0, 255, 0.753);
+    text-align: justify;
+    height: 240px;
+    padding: 20px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    background-color: rgba(241, 233, 218, 0.747);
+}
+.service-box:hover{
+    box-shadow: 0px 0px 13px silver;
+}
+.service-box span{
+    font-size: 2.5rem;
+    color: rgba(0, 0, 255, 0.753);
+}
+.service-box p{
+    width: fit-content;
+}

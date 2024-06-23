@@ -1,0 +1,31 @@
+.testimonial{
+    background:linear-gradient(#fff,rgb(243, 224, 190)) ; 
+}
+.testi{
+    background-color: rgb(94, 94, 237);
+    padding: 20px;
+}
+ .slider .slick-slide {
+    padding-right: 5px;
+}
+.slick-prev::before{
+    color: green;
+    font-size: 1.5rem;
+}
+.slick-next::before{
+    color: green;
+    font-size: 1.5rem;
+}
+@media (max-width:780px){
+    .slick-prev::before{
+        display: none;
+    }
+    .slick-next::before{
+        display: none;
+    } 
+}
+/* @media (max-width:580px){
+    ul.slick-dots{
+        display: none;
+    }
+} */

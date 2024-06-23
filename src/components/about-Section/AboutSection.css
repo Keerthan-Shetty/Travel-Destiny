@@ -1,0 +1,6 @@
+.tour-back1{
+    background: linear-gradient(rgba(0, 0, 255, 0.338),rgba(0, 0, 255, 0.233)), url('../../assets/thailand.jpg') no-repeat center;
+    background-size:  cover;
+    width: 100%;
+    height: 40vh;
+}
