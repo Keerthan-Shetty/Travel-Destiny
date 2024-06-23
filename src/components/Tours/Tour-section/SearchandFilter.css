@@ -4,6 +4,10 @@
     width: 100%;
     height: 40vh;
 }
+.tour-back h1{
+    color: #fff;
+    padding-top: 12rem;
+}
 .searchbar{
     padding-top: 40px;
 }

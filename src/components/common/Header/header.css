@@ -147,6 +147,7 @@ button.navbar-toggler{
 }
 .inputbox input.form-control{
    height: 2.8rem; 
+   color: #fff;
 }
 input.form-control:valid ~ span.hoverform,input.form-control:focus ~ span.hoverform{
     transform: translateX(6px) translateY(-26px);

@@ -34,13 +34,16 @@
     margin-top: 0;
     margin-bottom: 0;
 }
-.footer2 ul li{
+.footer2 ul li a{
     cursor: pointer;
+    text-decoration: none;
 }
-.footer2 ul li:hover{
+.footer2 ul li a:hover,.footer2 ul li:hover{
+
     color: #fff !important;
     border-bottom: 2px solid #fff !important;
     width: fit-content;
 }
+
 
 
