@@ -186,7 +186,7 @@ const Testslider = () => {
           </div>
         </div>
     </Slider >
-    </div >
+    </div>
   )
 }
 
