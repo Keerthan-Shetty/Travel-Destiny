@@ -18,7 +18,7 @@ const Main = () => {
                 <img src={earth} alt='earth' width={80} />
               </div>
               <h1 className='fw-bold mb-4' style={{textAlign:'justify'}}>Travel To Your Dream Destiny And Create <span style={{color:'#6A5ACD'}}>Memories.</span></h1>
-              <p className='text-success text'>Travelling is an experience that can teach us so many things that you cannot possibly learn while living at home. Firstly, it teaches you how to make new friends. The world is full of people who love interacting. You get to make friends when you travel to new places and spend quality time with them.</p>
+              <p className='text-success text'>Travelling is an experience that can teach us so many things that you cannot possibly learn while living at home. Firstly, it teaches you how to make new friends. The world is full of people who love interacting.</p>
             </div> 
           </div>
           <div className="col-lg-6 col-md-12 col-sm-12">

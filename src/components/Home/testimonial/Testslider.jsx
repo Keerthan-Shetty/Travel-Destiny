@@ -51,7 +51,7 @@ const Testslider = () => {
     ]
   };
   return (
-    <div>
+    <div className='slide-part'>
       <Slider {...settings} className="slider d-none d-sm-none">
         <div className="testi rounded-3">
           <p style={{ textAlign: 'justify' }} className='text-light'><i class="fa-solid fa-quote-left" style={{ color: 'gold' }}></i>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus deserunt, autem molestiae reprehenderit quam laudantium error praesentium quis facilis. Qui at corporis officiis aliquam rem quos, omnis ipsa explicabo quo<i class="fa-solid fa-quote-right" style={{ color: 'gold' }}></i></p>

@@ -1,3 +1,4 @@
+
 .testimonial {
     background: linear-gradient(#fff, rgb(243, 224, 190)); 
     padding: 20px 0;
@@ -21,18 +22,14 @@
     }
 }
 @media (max-width: 580px) {
-    div.testi{
-        width: 80%;
+    .slide-part{
+        overflow: hidden;
     }
     .testi p{
         font-size: 0.8rem;
     }
     .testi img {
-        width: 80px; /* Smaller image size for mobile */
+        width: 80px;
         height: 80px;
-    }
-    .slick-dots {
-        bottom: -30px; 
-        overflow: hidden;
     }
 }
