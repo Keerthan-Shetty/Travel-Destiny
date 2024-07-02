@@ -7,7 +7,7 @@ import './Testimonial.css'
 const Testimonial = () => {
     
   return (
-    <div className=' testimonial pt-5 pb-5 d-none d-sm-block'>
+    <div className=' testimonial pt-5 pb-5'>
         <Container>
             <Row>
             <Tag tag='testimonial' heading='our customer experience'/>
