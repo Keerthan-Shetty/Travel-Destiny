@@ -12,3 +12,4 @@ Tour Page
 Search and filter available
 
 ![localhost_3000_ (2)](https://github.com/Keerthan-Shetty/Travel-Destiny/assets/148765345/e5364487-1d95-4dd4-aacd-d05ccd62810c)
+
